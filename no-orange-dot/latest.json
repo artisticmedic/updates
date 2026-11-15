@@ -1,6 +1,6 @@
 {
-  "version": "0.1.0",
-  "url": "https://github.com/artisticmedic/no-orange-dot/releases/download/v0.1.0/No-Orange-Dot-0.1.0.pkg",
+  "version": "0.1.1",
+  "url": "https://github.com/artisticmedic/no-orange-dot/releases/download/v0.1.1/No-Orange-Dot-0.1.1.pkg",
   "minimumSystem": "14.0",
-  "notes": "The first release."
+  "notes": "Fixes the app getting stuck after an install, and uses less of the processor with the window open."
 }
